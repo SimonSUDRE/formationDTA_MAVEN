@@ -9,8 +9,8 @@ Find Maven dependency : http://search.maven.org/, https://mvnrepository.com/
 
 ## Index
 
-- [Commands](#command)
-- [Scopes](#scope)
+* [Commands](#command)
+* [Scopes](#scope)
 
 ##
 ## Commands <a id=command></a>
