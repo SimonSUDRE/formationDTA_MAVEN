@@ -6,7 +6,14 @@ Download : http://maven.apache.org/download.cgi
 
 Find Maven dependency : http://search.maven.org/, https://mvnrepository.com/
 ##
-## command
+
+## Index
+
+- Commands(#command)
+- Scopes(#scope)
+
+##
+## Commands <a id=command></a>
 **-X** pour activer le mode debug.
 
 **-e** pour consulter la trace Java complète de l’erreur.
@@ -61,7 +68,7 @@ Crée l’archive JAR à partir du dossier contenant les sources compilées et l
 Créer un site à partir du pom du projet.
 ##
 
-## scope
+## Scopes <a id=scope></a>
 
 **compile** 
 
