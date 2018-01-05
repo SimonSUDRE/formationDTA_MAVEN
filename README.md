@@ -18,6 +18,11 @@ Find Maven dependency : http://search.maven.org/, https://mvnrepository.com/
 
 **-e** pour consulter la trace Java complète de l’erreur.
 ##
+**mvn erchetype:generate** 
+
+Lance le processus de génération de projet, archetype représente le nom court du plugin, et generate la tâche invoquée du plugin.
+##
+
 **mvn compile** 
 
 Compile le code source du projet dans le dossier de construction du JAR.
