@@ -80,7 +80,7 @@ Copie l’archive JAR dans le référentiel local.
 Crée l’archive JAR à partir du dossier contenant les sources compilées et les fichiers de ressources filtrés.
 ##
 
-**mvn compile** 
+**mvn site** 
 
 Créer un site à partir du pom du projet.
 ##
